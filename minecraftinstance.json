@@ -26,10 +26,10 @@
     "mcGameVersionStatus": 1,
     "mcGameVersionTypeStatus": 1
   },
-  "isUnlocked": true,
+  "isUnlocked": false,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-12-20T18:42:53.5818782Z",
+  "lastPlayed": "2019-12-22T18:19:10.266187Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -37,8 +37,8 @@
   "fileID": 0,
   "customAuthor": "L33Tech",
   "modpackOverrides": null,
-  "isMemoryOverride": false,
-  "allocatedMemory": 3228,
+  "isMemoryOverride": true,
+  "allocatedMemory": 5894,
   "guid": "99ae40f7-fa87-442f-a796-7b7fa56d0303",
   "gameTypeID": 432,
   "installPath": "D:\\Modding\\Minecraft\\Instances\\BlightForge\\",
@@ -55,7 +55,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:19.9149741Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.995056Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6858935Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4437926Z",
       "fileCount": 1,
       "fileSize": 20889
     },
@@ -70,24 +70,9 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:18.7141983Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.9471761Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6858935Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4447576Z",
       "fileCount": 1,
       "fileSize": 3325004
-    },
-    {
-      "folderName": "WailaHarvestability-mc1.7.x-1.1.0.jar",
-      "fingerprint": 3534017300,
-      "fileDateHash": 3050655221,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3534017300
-      ],
-      "status": 1,
-      "timestamp": "2019-12-20T18:32:20.7071749Z",
-      "lastWriteTimeUtc": "2019-12-20T18:23:43.9062851Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6858935Z",
-      "fileCount": 1,
-      "fileSize": 31506
     },
     {
       "folderName": "ImLookingAtBlood-1.7.2-1.1a.jar",
@@ -100,7 +85,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:19.3166029Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.5741726Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6858935Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4447576Z",
       "fileCount": 1,
       "fileSize": 18332
     },
@@ -115,14 +100,14 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:19.8770751Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.6370065Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6858935Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4447576Z",
       "fileCount": 1,
       "fileSize": 51898
     },
     {
       "folderName": "world2.0.1A",
       "fingerprint": 4240601976,
-      "fileDateHash": 2263134951,
+      "fileDateHash": 366432725,
       "sectionID": 10,
       "individualFingerprints": [
         5792510,
@@ -228,9 +213,9 @@
         4259407294
       ],
       "status": 1,
-      "timestamp": "2019-12-20T18:32:21.4953997Z",
+      "timestamp": "2019-12-20T19:10:25.0617143Z",
       "lastWriteTimeUtc": "2019-12-20T18:32:17.2208177Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6858935Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4447576Z",
       "fileCount": 1,
       "fileSize": 0
     },
@@ -245,7 +230,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:19.0492888Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.4046366Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6858935Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4447576Z",
       "fileCount": 1,
       "fileSize": 2238482
     },
@@ -260,7 +245,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:19.590841Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.5811563Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6858935Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4447576Z",
       "fileCount": 1,
       "fileSize": 8361
     },
@@ -275,7 +260,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:18.7979617Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.2689878Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6858935Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4457859Z",
       "fileCount": 1,
       "fileSize": 842112
     },
@@ -290,7 +275,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:20.4149508Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.8873456Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6858935Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4457859Z",
       "fileCount": 1,
       "fileSize": 1694572
     },
@@ -305,7 +290,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:20.2015211Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.738733Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6858935Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4457859Z",
       "fileCount": 1,
       "fileSize": 33600
     },
@@ -320,7 +305,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:19.8680998Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.6350119Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6858935Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4457859Z",
       "fileCount": 1,
       "fileSize": 375079
     },
@@ -335,7 +320,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:19.5619199Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.5801587Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6858935Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4467499Z",
       "fileCount": 1,
       "fileSize": 530762
     },
@@ -350,7 +335,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:19.287683Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.5632015Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6858935Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4467499Z",
       "fileCount": 1,
       "fileSize": 1255304
     },
@@ -365,7 +350,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:19.9997473Z",
       "lastWriteTimeUtc": "2019-12-20T18:29:15.0260731Z",
-      "queryTimestamp": "2019-12-20T18:32:22.686891Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4467499Z",
       "fileCount": 1,
       "fileSize": 1774165
     },
@@ -380,9 +365,24 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:19.4592203Z",
       "lastWriteTimeUtc": "2019-12-20T18:28:32.4437678Z",
-      "queryTimestamp": "2019-12-20T18:32:22.686891Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4467499Z",
       "fileCount": 1,
       "fileSize": 14752
+    },
+    {
+      "folderName": "Waila-1.5.10_1.7.10.jar",
+      "fingerprint": 1414103353,
+      "fileDateHash": 4166355358,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1414103353
+      ],
+      "status": 1,
+      "timestamp": "2019-12-20T19:10:24.3718042Z",
+      "lastWriteTimeUtc": "2019-12-20T18:32:27.3875074Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4467499Z",
+      "fileCount": 1,
+      "fileSize": 544821
     },
     {
       "folderName": "BiblioWoods[Natura][v1.4].jar",
@@ -395,7 +395,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:18.7889854Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.2610092Z",
-      "queryTimestamp": "2019-12-20T18:32:22.686891Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4467499Z",
       "fileCount": 1,
       "fileSize": 216638
     },
@@ -410,39 +410,9 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:20.2134894Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.7327489Z",
-      "queryTimestamp": "2019-12-20T18:32:22.686891Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4477812Z",
       "fileCount": 1,
       "fileSize": 5438390
-    },
-    {
-      "folderName": "Schematica-1.7.10-1.7.5-GenHack3.jar",
-      "fingerprint": 3399412298,
-      "fileDateHash": 2348746827,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3399412298
-      ],
-      "status": 1,
-      "timestamp": "2019-12-20T18:32:20.17958Z",
-      "lastWriteTimeUtc": "2019-12-20T18:23:43.6788936Z",
-      "queryTimestamp": "2019-12-20T18:32:22.686891Z",
-      "fileCount": 1,
-      "fileSize": 226716
-    },
-    {
-      "folderName": "ChickenChunks-1.7.10-1.3.4.16-universal.jar",
-      "fingerprint": 1377882220,
-      "fileDateHash": 1574792700,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1377882220
-      ],
-      "status": 1,
-      "timestamp": "2019-12-20T18:32:19.0383388Z",
-      "lastWriteTimeUtc": "2019-12-20T18:23:43.386676Z",
-      "queryTimestamp": "2019-12-20T18:32:22.686891Z",
-      "fileCount": 1,
-      "fileSize": 105665
     },
     {
       "folderName": "MineFactoryReloaded-[1.7.10]2.8.0-104.jar",
@@ -455,9 +425,24 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:19.7095232Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.6210476Z",
-      "queryTimestamp": "2019-12-20T18:32:22.686891Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4487456Z",
       "fileCount": 1,
       "fileSize": 1719328
+    },
+    {
+      "folderName": "Schematica-1.7.10-1.7.5-GenHack3.jar",
+      "fingerprint": 3399412298,
+      "fileDateHash": 2348746827,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3399412298
+      ],
+      "status": 1,
+      "timestamp": "2019-12-20T18:32:20.17958Z",
+      "lastWriteTimeUtc": "2019-12-20T18:23:43.6788936Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4487456Z",
+      "fileCount": 1,
+      "fileSize": 226716
     },
     {
       "folderName": "TaintedPlayers-v1-1.7.10.jar",
@@ -470,7 +455,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:20.2015211Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.7397305Z",
-      "queryTimestamp": "2019-12-20T18:32:22.686891Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4487456Z",
       "fileCount": 1,
       "fileSize": 181056
     },
@@ -485,7 +470,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:20.687222Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.9012981Z",
-      "queryTimestamp": "2019-12-20T18:32:22.686891Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4487456Z",
       "fileCount": 1,
       "fileSize": 651292
     },
@@ -500,7 +485,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:20.3810411Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.8604216Z",
-      "queryTimestamp": "2019-12-20T18:32:22.686891Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4497709Z",
       "fileCount": 1,
       "fileSize": 409743
     },
@@ -515,7 +500,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:20.339153Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:44.0199806Z",
-      "queryTimestamp": "2019-12-20T18:32:22.686891Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4497709Z",
       "fileCount": 1,
       "fileSize": 66666
     },
@@ -530,7 +515,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:19.4522115Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.9691161Z",
-      "queryTimestamp": "2019-12-20T18:32:22.686891Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4497709Z",
       "fileCount": 1,
       "fileSize": 221921
     },
@@ -545,7 +530,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:18.6683088Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.2036073Z",
-      "queryTimestamp": "2019-12-20T18:32:22.686891Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4497709Z",
       "fileCount": 1,
       "fileSize": 6385841
     },
@@ -560,7 +545,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:18.9385845Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.382687Z",
-      "queryTimestamp": "2019-12-20T18:32:22.686891Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4497709Z",
       "fileCount": 1,
       "fileSize": 14703683
     },
@@ -575,7 +560,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:19.0911765Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.9521615Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6878909Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4507552Z",
       "fileCount": 1,
       "fileSize": 203516
     },
@@ -590,24 +575,9 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:19.7294699Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.6300222Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6878909Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4507552Z",
       "fileCount": 1,
       "fileSize": 963268
-    },
-    {
-      "folderName": "Translocator-1.7.10-1.1.1.12-universal.jar",
-      "fingerprint": 148901303,
-      "fileDateHash": 1640978986,
-      "sectionID": 8,
-      "individualFingerprints": [
-        148901303
-      ],
-      "status": 1,
-      "timestamp": "2019-12-20T18:32:20.6732595Z",
-      "lastWriteTimeUtc": "2019-12-20T18:23:43.8923214Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6878909Z",
-      "fileCount": 1,
-      "fileSize": 159763
     },
     {
       "folderName": "HelpFixer-1.0.7.jar",
@@ -620,14 +590,29 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:19.2866892Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.5641992Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6878909Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4507552Z",
       "fileCount": 1,
       "fileSize": 6552
     },
     {
+      "folderName": "Translocator-1.7.10-1.1.1.12-universal.jar",
+      "fingerprint": 148901303,
+      "fileDateHash": 1640978986,
+      "sectionID": 8,
+      "individualFingerprints": [
+        148901303
+      ],
+      "status": 1,
+      "timestamp": "2019-12-20T18:32:20.6732595Z",
+      "lastWriteTimeUtc": "2019-12-20T18:23:43.8923214Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4507552Z",
+      "fileCount": 1,
+      "fileSize": 159763
+    },
+    {
       "folderName": "world2.0.2",
       "fingerprint": 4240601976,
-      "fileDateHash": 2479025812,
+      "fileDateHash": 1034954610,
       "sectionID": 10,
       "individualFingerprints": [
         5792510,
@@ -733,9 +718,9 @@
         4259407294
       ],
       "status": 1,
-      "timestamp": "2019-12-20T18:32:22.0509145Z",
-      "lastWriteTimeUtc": "2019-12-20T18:32:17.3447463Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6878909Z",
+      "timestamp": "2019-12-20T19:10:25.6521381Z",
+      "lastWriteTimeUtc": "2019-12-20T18:32:17.3457434Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4507552Z",
       "fileCount": 1,
       "fileSize": 0
     },
@@ -750,7 +735,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:18.4977907Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:44.0479055Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6878909Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4507552Z",
       "fileCount": 1,
       "fileSize": 2013177
     },
@@ -765,24 +750,24 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:20.2603638Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.8354756Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6878909Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4517669Z",
       "fileCount": 1,
       "fileSize": 12565807
     },
     {
-      "folderName": "tcnodetracker-1.7.10-1.1.0.jar",
-      "fingerprint": 2754244688,
-      "fileDateHash": 436663631,
-      "sectionID": 8,
+      "folderName": "Clear Vision.zip",
+      "fingerprint": 2539073515,
+      "fileDateHash": 2236867457,
+      "sectionID": 9,
       "individualFingerprints": [
-        2754244688
+        2539073515
       ],
       "status": 1,
-      "timestamp": "2019-12-20T18:32:20.2075054Z",
-      "lastWriteTimeUtc": "2019-12-20T18:23:44.0130163Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6878909Z",
+      "timestamp": "2019-12-20T19:10:24.3548366Z",
+      "lastWriteTimeUtc": "2019-12-20T18:37:16.3390177Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4517669Z",
       "fileCount": 1,
-      "fileSize": 115821
+      "fileSize": 249417
     },
     {
       "folderName": "Metallurgy-1.7.10-4.0.5.75.jar",
@@ -795,9 +780,24 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:19.6806015Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.6010999Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6878909Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4517669Z",
       "fileCount": 1,
       "fileSize": 1522550
+    },
+    {
+      "folderName": "tcnodetracker-1.7.10-1.1.0.jar",
+      "fingerprint": 2754244688,
+      "fileDateHash": 436663631,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2754244688
+      ],
+      "status": 1,
+      "timestamp": "2019-12-20T18:32:20.2075054Z",
+      "lastWriteTimeUtc": "2019-12-20T18:23:44.0130163Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4517669Z",
+      "fileCount": 1,
+      "fileSize": 115821
     },
     {
       "folderName": "ThermalExpansion-[1.7.10]4.0.1-182.jar",
@@ -810,24 +810,9 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:20.3910143Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.8763643Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6878909Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4517669Z",
       "fileCount": 1,
       "fileSize": 2289286
-    },
-    {
-      "folderName": "Waila-1.5.9_1.7.10.jar",
-      "fingerprint": 3409061188,
-      "fileDateHash": 4092490750,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3409061188
-      ],
-      "status": 1,
-      "timestamp": "2019-12-20T18:32:20.6971956Z",
-      "lastWriteTimeUtc": "2019-12-20T18:23:43.9052883Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6878909Z",
-      "fileCount": 1,
-      "fileSize": 539206
     },
     {
       "folderName": "LunatriusCore-1.7.10-1.1.2.21-universal.jar",
@@ -840,7 +825,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:19.6646446Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.5821527Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6878909Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4517669Z",
       "fileCount": 1,
       "fileSize": 57644
     },
@@ -855,7 +840,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:19.1659803Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.4854109Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6878909Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4517669Z",
       "fileCount": 1,
       "fileSize": 142561
     },
@@ -870,7 +855,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:19.8930325Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.994051Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6878909Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4527369Z",
       "fileCount": 1,
       "fileSize": 133932
     },
@@ -885,7 +870,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:18.7131901Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.9302206Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6878909Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4527369Z",
       "fileCount": 1,
       "fileSize": 2485
     },
@@ -900,7 +885,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:20.4329023Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.8893314Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6888852Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4527369Z",
       "fileCount": 1,
       "fileSize": 46699
     },
@@ -915,7 +900,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:19.9239497Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.9960452Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6888852Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4527369Z",
       "fileCount": 1,
       "fileSize": 11447
     },
@@ -930,7 +915,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:20.577516Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.8903278Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6888852Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4527369Z",
       "fileCount": 1,
       "fileSize": 24837
     },
@@ -945,24 +930,9 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:18.5236983Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.1567315Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6888852Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4527369Z",
       "fileCount": 1,
       "fileSize": 90094
-    },
-    {
-      "folderName": "StorageDrawers-1.7.10-1.5.3.jar",
-      "fingerprint": 3166433195,
-      "fileDateHash": 2228017167,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3166433195
-      ],
-      "status": 1,
-      "timestamp": "2019-12-20T18:32:20.1935427Z",
-      "lastWriteTimeUtc": "2019-12-20T18:23:43.6868713Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6888852Z",
-      "fileCount": 1,
-      "fileSize": 385652
     },
     {
       "folderName": "NetherOres-[1.7.10]2.3.0RC4-4.jar",
@@ -975,9 +945,24 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:19.9089908Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.6429964Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6888852Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4537599Z",
       "fileCount": 1,
       "fileSize": 77607
+    },
+    {
+      "folderName": "StorageDrawers-1.7.10-1.5.3.jar",
+      "fingerprint": 3166433195,
+      "fileDateHash": 2228017167,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3166433195
+      ],
+      "status": 1,
+      "timestamp": "2019-12-20T18:32:20.1935427Z",
+      "lastWriteTimeUtc": "2019-12-20T18:23:43.6868713Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4537599Z",
+      "fileCount": 1,
+      "fileSize": 385652
     },
     {
       "folderName": "MetallurgyCore-1.7.10-4.0.4.18.jar",
@@ -990,7 +975,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:19.6975554Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.602097Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6888852Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4537599Z",
       "fileCount": 1,
       "fileSize": 49712
     },
@@ -1005,7 +990,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:19.3075982Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.5731766Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6888852Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4537599Z",
       "fileCount": 1,
       "fileSize": 421088
     },
@@ -1020,7 +1005,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:18.5506219Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.1597234Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6888852Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4537599Z",
       "fileCount": 1,
       "fileSize": 245486
     },
@@ -1035,7 +1020,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:20.6792442Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.8953151Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6888852Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4537599Z",
       "fileCount": 1,
       "fileSize": 138279
     },
@@ -1050,7 +1035,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:20.1406855Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.6689198Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6888852Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4547297Z",
       "fileCount": 1,
       "fileSize": 282107
     },
@@ -1065,7 +1050,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:18.9156731Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.2899331Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6888852Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4547297Z",
       "fileCount": 1,
       "fileSize": 2656603
     },
@@ -1080,7 +1065,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:20.1486824Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.6759009Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6888852Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4547297Z",
       "fileCount": 1,
       "fileSize": 317947
     },
@@ -1095,7 +1080,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:18.7411129Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.2115859Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6888852Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4547297Z",
       "fileCount": 1,
       "fileSize": 702255
     },
@@ -1110,7 +1095,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:19.1739578Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.5442538Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6888852Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4547297Z",
       "fileCount": 1,
       "fileSize": 11151826
     },
@@ -1125,7 +1110,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:18.8109257Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.9491822Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6888852Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4547297Z",
       "fileCount": 1,
       "fileSize": 14704
     },
@@ -1140,7 +1125,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:19.3006157Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.5672247Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6888852Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4547297Z",
       "fileCount": 1,
       "fileSize": 187060
     },
@@ -1155,7 +1140,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:20.0419499Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.6659267Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6888852Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4547297Z",
       "fileCount": 1,
       "fileSize": 27070
     },
@@ -1170,7 +1155,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:19.742446Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.631022Z",
-      "queryTimestamp": "2019-12-20T18:32:22.689883Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4557535Z",
       "fileCount": 1,
       "fileSize": 39873
     },
@@ -1185,7 +1170,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:20.1556441Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:44.0110063Z",
-      "queryTimestamp": "2019-12-20T18:32:22.689883Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4557535Z",
       "fileCount": 1,
       "fileSize": 2208339
     },
@@ -1200,7 +1185,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:19.9079926Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.6440042Z",
-      "queryTimestamp": "2019-12-20T18:32:22.689883Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4557535Z",
       "fileCount": 1,
       "fileSize": 4371
     },
@@ -1215,7 +1200,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:19.8830592Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.9920555Z",
-      "queryTimestamp": "2019-12-20T18:32:22.689883Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4557535Z",
       "fileCount": 1,
       "fileSize": 891845
     },
@@ -1230,7 +1215,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:18.5147465Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:44.0518952Z",
-      "queryTimestamp": "2019-12-20T18:32:22.689883Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4557535Z",
       "fileCount": 1,
       "fileSize": 447305
     },
@@ -1245,7 +1230,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:20.5715611Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.7357409Z",
-      "queryTimestamp": "2019-12-20T18:32:22.689883Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4557535Z",
       "fileCount": 1,
       "fileSize": 207593
     },
@@ -1260,7 +1245,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:18.5296791Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.9292243Z",
-      "queryTimestamp": "2019-12-20T18:32:22.689883Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4567309Z",
       "fileCount": 1,
       "fileSize": 2522389
     },
@@ -1275,7 +1260,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:19.5738887Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.9840772Z",
-      "queryTimestamp": "2019-12-20T18:32:22.689883Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4567309Z",
       "fileCount": 1,
       "fileSize": 1731255
     },
@@ -1290,24 +1275,9 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:19.9010114Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.6409959Z",
-      "queryTimestamp": "2019-12-20T18:32:22.689883Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4567309Z",
       "fileCount": 1,
       "fileSize": 276456
-    },
-    {
-      "folderName": "CodeChickenCore-1.7.10-1.0.4.29-universal.jar",
-      "fingerprint": 3208591531,
-      "fileDateHash": 2257575805,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3208591531
-      ],
-      "status": 1,
-      "timestamp": "2019-12-20T18:32:19.069235Z",
-      "lastWriteTimeUtc": "2019-12-20T18:23:43.4185891Z",
-      "queryTimestamp": "2019-12-20T18:32:22.689883Z",
-      "fileCount": 1,
-      "fileSize": 157678
     },
     {
       "folderName": "Pam's HarvestCraft 1.7.10h.jar",
@@ -1320,7 +1290,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:20.0200065Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.6649305Z",
-      "queryTimestamp": "2019-12-20T18:32:22.689883Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4567309Z",
       "fileCount": 1,
       "fileSize": 2062557
     },
@@ -1335,7 +1305,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:19.2767154Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.5522307Z",
-      "queryTimestamp": "2019-12-20T18:32:22.689883Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4567309Z",
       "fileCount": 1,
       "fileSize": 590062
     },
@@ -1350,7 +1320,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:20.1476655Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.9970419Z",
-      "queryTimestamp": "2019-12-20T18:32:22.689883Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4567309Z",
       "fileCount": 1,
       "fileSize": 5488
     },
@@ -1365,7 +1335,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:19.8680998Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.6360095Z",
-      "queryTimestamp": "2019-12-20T18:32:22.689883Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4577479Z",
       "fileCount": 1,
       "fileSize": 45689
     },
@@ -1380,14 +1350,14 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:19.6726227Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.5851447Z",
-      "queryTimestamp": "2019-12-20T18:32:22.689883Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4577479Z",
       "fileCount": 1,
       "fileSize": 196876
     },
     {
       "folderName": "world2.0.1",
       "fingerprint": 4240601976,
-      "fileDateHash": 2272828922,
+      "fileDateHash": 3958209356,
       "sectionID": 10,
       "individualFingerprints": [
         5792510,
@@ -1493,9 +1463,9 @@
         4259407294
       ],
       "status": 1,
-      "timestamp": "2019-12-20T18:32:20.9365558Z",
-      "lastWriteTimeUtc": "2019-12-20T18:32:16.8876194Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6908538Z",
+      "timestamp": "2019-12-20T19:10:24.3827621Z",
+      "lastWriteTimeUtc": "2019-12-20T18:32:16.8886127Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4577479Z",
       "fileCount": 1,
       "fileSize": 0
     },
@@ -1510,7 +1480,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:19.1011498Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.4814225Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6908538Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4577479Z",
       "fileCount": 1,
       "fileSize": 8806738
     },
@@ -1525,23 +1495,27 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:20.1875584Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.6818842Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6908538Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4577479Z",
       "fileCount": 1,
       "fileSize": 175704
     },
     {
       "folderName": "NEI",
-      "fingerprint": 100803977,
-      "fileDateHash": 3109081714,
+      "fingerprint": 1471145731,
+      "fileDateHash": 2554265866,
       "sectionID": 10,
       "individualFingerprints": [
-        1540447798
+        1540447798,
+        2118531772,
+        2118531772,
+        3818714025,
+        3818714025
       ],
       "status": 1,
-      "timestamp": "2019-12-20T18:32:20.9355589Z",
-      "lastWriteTimeUtc": "2019-12-20T18:32:16.8756483Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6908538Z",
-      "fileCount": 1,
+      "timestamp": "2019-12-20T19:10:24.3797971Z",
+      "lastWriteTimeUtc": "2019-12-20T18:53:18.7559528Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4577479Z",
+      "fileCount": 2,
       "fileSize": 0
     },
     {
@@ -1555,7 +1529,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:19.2607563Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.9661263Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6908538Z",
+      "queryTimestamp": "2019-12-21T22:33:36.458725Z",
       "fileCount": 1,
       "fileSize": 1846297
     },
@@ -1570,7 +1544,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:20.8398148Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.9072827Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6908538Z",
+      "queryTimestamp": "2019-12-21T22:33:36.458725Z",
       "fileCount": 1,
       "fileSize": 24785
     },
@@ -1585,7 +1559,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:20.3610944Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.8554194Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6908538Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4597163Z",
       "fileCount": 1,
       "fileSize": 2136018
     },
@@ -1600,7 +1574,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:18.5606285Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.1607213Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6908538Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4597163Z",
       "fileCount": 1,
       "fileSize": 27281
     },
@@ -1615,9 +1589,24 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:18.4897949Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:44.0369355Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6908538Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4597163Z",
       "fileCount": 1,
       "fileSize": 470319
+    },
+    {
+      "folderName": "L33TGUI.zip",
+      "fingerprint": 1085489441,
+      "fileDateHash": 2358843460,
+      "sectionID": 9,
+      "individualFingerprints": [
+        1085489441
+      ],
+      "status": 1,
+      "timestamp": "2019-12-20T19:10:24.3568338Z",
+      "lastWriteTimeUtc": "2019-12-20T18:37:09.4300985Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4597163Z",
+      "fileCount": 1,
+      "fileSize": 1415531
     },
     {
       "folderName": "INpureCore-[1.7.10]1.0.0B9-62.jar",
@@ -1630,7 +1619,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:19.4442338Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.5691876Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6908538Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4597163Z",
       "fileCount": 1,
       "fileSize": 126448
     },
@@ -1645,7 +1634,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:19.9149741Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.6489721Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6908538Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4597163Z",
       "fileCount": 1,
       "fileSize": 510700
     },
@@ -1660,7 +1649,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:20.1725983Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.6719114Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6908538Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4597163Z",
       "fileCount": 1,
       "fileSize": 237390
     },
@@ -1675,7 +1664,7 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:19.0762166Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.4155979Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6908538Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4597163Z",
       "fileCount": 1,
       "fileSize": 1054020
     },
@@ -1690,9 +1679,24 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:18.7510867Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:43.258031Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6908538Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4607435Z",
       "fileCount": 1,
       "fileSize": 5249991
+    },
+    {
+      "folderName": "WailaHarvestability-mc1.7.10-1.1.6.jar",
+      "fingerprint": 3350533539,
+      "fileDateHash": 473499613,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3350533539
+      ],
+      "status": 1,
+      "timestamp": "2019-12-20T19:10:24.3787741Z",
+      "lastWriteTimeUtc": "2019-12-20T18:32:26.7260526Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4607435Z",
+      "fileCount": 1,
+      "fileSize": 28800
     },
     {
       "folderName": "thaumicenergistics-0.8.10.10.jar",
@@ -1705,9 +1709,24 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:20.347132Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:44.0319487Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6908538Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4607435Z",
       "fileCount": 1,
       "fileSize": 1228305
+    },
+    {
+      "folderName": "Chicken Chunk Patcher 1.1.jar",
+      "fingerprint": 3748051108,
+      "fileDateHash": 1126020406,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3748051108
+      ],
+      "status": 1,
+      "timestamp": "2019-12-21T22:33:36.1531072Z",
+      "lastWriteTimeUtc": "2019-12-21T22:25:23.9644543Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4607435Z",
+      "fileCount": 1,
+      "fileSize": 4206
     },
     {
       "folderName": "terraincontrol-forge-2.7.0-colored-lockhack.jar",
@@ -1720,13 +1739,13 @@
       "status": 1,
       "timestamp": "2019-12-20T18:32:20.251419Z",
       "lastWriteTimeUtc": "2019-12-20T18:23:44.0179871Z",
-      "queryTimestamp": "2019-12-20T18:32:22.6908538Z",
+      "queryTimestamp": "2019-12-21T22:33:36.4607435Z",
       "fileCount": 1,
       "fileSize": 568071
     }
   ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2019-12-20T18:25:06.6837547Z",
+  "lastPreviousMatchUpdate": "2019-12-21T22:33:36.8233536Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.7.10",
@@ -1749,166 +1768,6 @@
   "preferenceShowAddOnInfo": true,
   "installDate": "2019-12-20T18:32:17.5208859Z",
   "installedAddons": [
-    {
-      "addonID": 355105,
-      "gameInstanceID": "99ae40f7-fa87-442f-a796-7b7fa56d0303",
-      "installedFile": {
-        "id": 2844341,
-        "displayName": "Clear Vision.zip",
-        "fileName": "Clear Vision.zip",
-        "fileDate": "2019-12-17T19:03:57.317Z",
-        "fileLength": 249417,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2844/341/Clear Vision.zip",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "pack.png",
-            "fingerprint": 1645411205,
-            "type": 0
-          },
-          {
-            "foldername": "readme.txt",
-            "fingerprint": 2393578970,
-            "type": 0
-          },
-          {
-            "foldername": "rpw-version.txt",
-            "fingerprint": 1189639366,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 3929835532,
-            "type": 0
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 1173534810,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 2539073515,
-        "gameVersion": [
-          "1.9.1",
-          "1.13.1",
-          "1.9.3",
-          "1.12",
-          "1.12.1",
-          "1.9.2",
-          "1.9.4",
-          "1.14.1",
-          "1.14.4",
-          "1.13",
-          "1.14.3",
-          "1.8.8",
-          "1.11",
-          "1.14",
-          "1.10.1",
-          "1.10",
-          "1.7.10",
-          "1.14.2",
-          "1.11.1",
-          "1.11.2",
-          "1.9",
-          "1.12.2",
-          "1.13.2",
-          "1.8.9"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2014-06-16T00:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "Clear Vision.zip"
-      },
-      "dateInstalled": "2019-12-20T18:37:16.345002Z",
-      "dateUpdated": "2019-12-20T18:37:16.3469965Z",
-      "dateLastUpdateAttempted": "2019-12-20T18:37:16.3469965Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": []
-    },
-    {
-      "addonID": 220845,
-      "gameInstanceID": "99ae40f7-fa87-442f-a796-7b7fa56d0303",
-      "installedFile": {
-        "id": 2213062,
-        "displayName": "TooMuchLoot-1.7.10-3.0.1.B22-universal.jar",
-        "fileName": "TooMuchLoot-1.7.10-3.0.1.B22-universal.jar",
-        "fileDate": "2014-08-30T02:14:15.553Z",
-        "fileLength": 24837,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2213/62/TooMuchLoot-1.7.10-3.0.1.B22-universal.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [],
-        "packageFingerprint": 1589778182,
-        "gameVersion": [
-          "1.7.2",
-          "1.7.10"
-        ],
-        "sortableGameVersion": [
-          {
-            "gameVersionPadded": "0000000001.0000000007.0000000002",
-            "gameVersion": "1.7.2",
-            "gameVersionReleaseDate": "2013-10-25T00:00:00Z",
-            "gameVersionName": "1.7.2"
-          },
-          {
-            "gameVersionPadded": "0000000001.0000000007.0000000010",
-            "gameVersion": "1.7.10",
-            "gameVersionReleaseDate": "2014-06-16T00:00:00Z",
-            "gameVersionName": "1.7.10"
-          }
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": true,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 4,
-        "renderCacheId": 139607,
-        "projectId": 220845,
-        "packageFingerprintId": 6956691,
-        "gameVersionDateReleased": "2013-10-25T00:00:00Z",
-        "gameVersionMappingId": 36858,
-        "gameVersionId": 361,
-        "gameId": 432,
-        "isServerPack": false,
-        "FileNameOnDisk": "TooMuchLoot-1.7.10-3.0.1.B22-universal.jar"
-      },
-      "dateInstalled": "2019-12-20T18:32:23.1588573Z",
-      "dateUpdated": "2018-12-20T18:32:23.1588573Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 3,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": []
-    },
     {
       "addonID": 293181,
       "gameInstanceID": "99ae40f7-fa87-442f-a796-7b7fa56d0303",
@@ -2696,20 +2555,85 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
-      "addonID": 355106,
+      "addonID": 220845,
       "gameInstanceID": "99ae40f7-fa87-442f-a796-7b7fa56d0303",
       "installedFile": {
-        "id": 2844345,
-        "displayName": "L33TGUI.zip",
-        "fileName": "L33TGUI.zip",
-        "fileDate": "2019-12-17T19:08:08.76Z",
-        "fileLength": 1415531,
+        "id": 2213062,
+        "displayName": "TooMuchLoot-1.7.10-3.0.1.B22-universal.jar",
+        "fileName": "TooMuchLoot-1.7.10-3.0.1.B22-universal.jar",
+        "fileDate": "2014-08-30T02:14:15.553Z",
+        "fileLength": 24837,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2844/345/L33TGUI.zip",
+        "downloadUrl": "https://edge.forgecdn.net/files/2213/62/TooMuchLoot-1.7.10-3.0.1.B22-universal.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [],
+        "packageFingerprint": 1589778182,
+        "gameVersion": [
+          "1.7.2",
+          "1.7.10"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000007.0000000002",
+            "gameVersion": "1.7.2",
+            "gameVersionReleaseDate": "2013-10-25T00:00:00Z",
+            "gameVersionName": "1.7.2"
+          },
+          {
+            "gameVersionPadded": "0000000001.0000000007.0000000010",
+            "gameVersion": "1.7.10",
+            "gameVersionReleaseDate": "2014-06-16T00:00:00Z",
+            "gameVersionName": "1.7.10"
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": true,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 139607,
+        "projectId": 220845,
+        "packageFingerprintId": 6956691,
+        "gameVersionDateReleased": "2013-10-25T00:00:00Z",
+        "gameVersionMappingId": 36858,
+        "gameVersionId": 361,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "TooMuchLoot-1.7.10-3.0.1.B22-universal.jar"
+      },
+      "dateInstalled": "2019-12-20T18:32:23.1588573Z",
+      "dateUpdated": "2018-12-20T18:32:23.1588573Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 3,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 355105,
+      "gameInstanceID": "99ae40f7-fa87-442f-a796-7b7fa56d0303",
+      "installedFile": {
+        "id": 2844341,
+        "displayName": "Clear Vision.zip",
+        "fileName": "Clear Vision.zip",
+        "fileDate": "2019-12-17T19:03:57.317Z",
+        "fileLength": 249417,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2844/341/Clear Vision.zip",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -2717,7 +2641,7 @@
         "modules": [
           {
             "foldername": "pack.png",
-            "fingerprint": 4230056480,
+            "fingerprint": 1645411205,
             "type": 0
           },
           {
@@ -2732,33 +2656,40 @@
           },
           {
             "foldername": "assets",
-            "fingerprint": 2116583810,
+            "fingerprint": 3929835532,
             "type": 0
           },
           {
             "foldername": "pack.mcmeta",
-            "fingerprint": 2525571062,
+            "fingerprint": 1173534810,
             "type": 0
           }
         ],
-        "packageFingerprint": 1085489441,
+        "packageFingerprint": 2539073515,
         "gameVersion": [
+          "1.9.1",
           "1.13.1",
-          "1.15-Snapshot",
+          "1.9.3",
           "1.12",
           "1.12.1",
+          "1.9.2",
+          "1.9.4",
           "1.14.1",
           "1.14.4",
           "1.13",
           "1.14.3",
           "1.8.8",
+          "1.11",
           "1.14",
+          "1.10.1",
+          "1.10",
           "1.7.10",
           "1.14.2",
-          "1.12-Snapshot",
-          "1.13-Snapshot",
+          "1.11.1",
+          "1.11.2",
+          "1.9",
+          "1.12.2",
           "1.13.2",
-          "1.14-Snapshot",
           "1.8.9"
         ],
         "hasInstallScript": false,
@@ -2770,12 +2701,12 @@
         "gameVersionDateReleased": "2014-06-16T00:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "L33TGUI.zip"
+        "FileNameOnDisk": "Clear Vision.zip"
       },
-      "dateInstalled": "2019-12-20T18:37:09.438115Z",
-      "dateUpdated": "2019-12-20T18:37:09.785858Z",
-      "dateLastUpdateAttempted": "2019-12-20T18:37:09.785858Z",
-      "status": 4,
+      "dateInstalled": "2019-12-20T18:37:16.345002Z",
+      "dateUpdated": "2019-12-20T18:37:16.3469965Z",
+      "dateLastUpdateAttempted": "2019-12-20T18:37:16.3469965Z",
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -2784,7 +2715,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 78640,
@@ -2863,7 +2794,95 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
+    },
+    {
+      "addonID": 355106,
+      "gameInstanceID": "99ae40f7-fa87-442f-a796-7b7fa56d0303",
+      "installedFile": {
+        "id": 2844345,
+        "displayName": "L33TGUI.zip",
+        "fileName": "L33TGUI.zip",
+        "fileDate": "2019-12-17T19:08:08.76Z",
+        "fileLength": 1415531,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2844/345/L33TGUI.zip",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "pack.png",
+            "fingerprint": 4230056480,
+            "type": 0
+          },
+          {
+            "foldername": "readme.txt",
+            "fingerprint": 2393578970,
+            "type": 0
+          },
+          {
+            "foldername": "rpw-version.txt",
+            "fingerprint": 1189639366,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2116583810,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 2525571062,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 1085489441,
+        "gameVersion": [
+          "1.13.1",
+          "1.15-Snapshot",
+          "1.12",
+          "1.12.1",
+          "1.14.1",
+          "1.14.4",
+          "1.13",
+          "1.14.3",
+          "1.8.8",
+          "1.14",
+          "1.7.10",
+          "1.14.2",
+          "1.12-Snapshot",
+          "1.13-Snapshot",
+          "1.13.2",
+          "1.14-Snapshot",
+          "1.8.9"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2014-06-16T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "L33TGUI.zip"
+      },
+      "dateInstalled": "2019-12-20T18:37:09.438115Z",
+      "dateUpdated": "2019-12-20T18:37:09.785858Z",
+      "dateLastUpdateAttempted": "2019-12-20T18:37:09.785858Z",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
     },
     {
       "addonID": 74120,
@@ -2949,86 +2968,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
-    },
-    {
-      "addonID": 225095,
-      "gameInstanceID": "99ae40f7-fa87-442f-a796-7b7fa56d0303",
-      "installedFile": {
-        "id": 2226058,
-        "displayName": "ThaumcraftNEIPlugin-1.7.10-1.7",
-        "fileName": "thaumcraftneiplugin-1.7.10-1.7.jar",
-        "fileDate": "2015-02-01T19:32:15.383Z",
-        "fileLength": 66666,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2226/58/thaumcraftneiplugin-1.7.10-1.7.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "meta-inf",
-            "fingerprint": 2464251221,
-            "type": 3
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 2040733788,
-            "type": 3
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 3334666804,
-            "type": 3
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 3930811838,
-            "type": 3
-          }
-        ],
-        "packageFingerprint": 3934609401,
-        "gameVersion": [
-          "1.7.10"
-        ],
-        "sortableGameVersion": [
-          {
-            "gameVersionPadded": "0000000001.0000000007.0000000010",
-            "gameVersion": "1.7.10",
-            "gameVersionReleaseDate": "2014-06-16T00:00:00Z",
-            "gameVersionName": "1.7.10"
-          }
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": true,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 4,
-        "renderCacheId": 54360,
-        "projectId": 225095,
-        "packageFingerprintId": 15222972,
-        "gameVersionDateReleased": "2014-06-16T00:00:00Z",
-        "gameVersionMappingId": 62899,
-        "gameVersionId": 4449,
-        "gameId": 432,
-        "isServerPack": false,
-        "FileNameOnDisk": "thaumcraftneiplugin-1.7.10-1.7.jar"
-      },
-      "dateInstalled": "2019-12-20T18:32:23.1568639Z",
-      "dateUpdated": "2018-12-20T18:32:23.1568639Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 3,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 225643,
@@ -3110,6 +3050,85 @@
       "installedTargets": null
     },
     {
+      "addonID": 225095,
+      "gameInstanceID": "99ae40f7-fa87-442f-a796-7b7fa56d0303",
+      "installedFile": {
+        "id": 2226058,
+        "displayName": "ThaumcraftNEIPlugin-1.7.10-1.7",
+        "fileName": "thaumcraftneiplugin-1.7.10-1.7.jar",
+        "fileDate": "2015-02-01T19:32:15.383Z",
+        "fileLength": 66666,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2226/58/thaumcraftneiplugin-1.7.10-1.7.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "meta-inf",
+            "fingerprint": 2464251221,
+            "type": 3
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 2040733788,
+            "type": 3
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 3334666804,
+            "type": 3
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3930811838,
+            "type": 3
+          }
+        ],
+        "packageFingerprint": 3934609401,
+        "gameVersion": [
+          "1.7.10"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000007.0000000010",
+            "gameVersion": "1.7.10",
+            "gameVersionReleaseDate": "2014-06-16T00:00:00Z",
+            "gameVersionName": "1.7.10"
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": true,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 54360,
+        "projectId": 225095,
+        "packageFingerprintId": 15222972,
+        "gameVersionDateReleased": "2014-06-16T00:00:00Z",
+        "gameVersionMappingId": 62899,
+        "gameVersionId": 4449,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "thaumcraftneiplugin-1.7.10-1.7.jar"
+      },
+      "dateInstalled": "2019-12-20T18:32:23.1568639Z",
+      "dateUpdated": "2018-12-20T18:32:23.1568639Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 3,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
       "addonID": 76734,
       "gameInstanceID": "99ae40f7-fa87-442f-a796-7b7fa56d0303",
       "installedFile": {
@@ -3165,7 +3184,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 230864,
@@ -3249,7 +3268,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 221138,
@@ -3307,7 +3326,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 244019,
@@ -3391,7 +3410,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 227443,
@@ -3492,7 +3511,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 227992,
@@ -3578,7 +3597,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 221418,
@@ -3643,7 +3662,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 232791,
@@ -3717,7 +3736,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 76474,
@@ -3854,7 +3873,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 224029,
@@ -3938,7 +3957,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 220611,
@@ -3996,7 +4015,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 228969,
@@ -4080,7 +4099,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 223628,
@@ -4191,7 +4210,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 227328,
@@ -4270,7 +4289,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 59641,
@@ -4349,7 +4368,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 241994,
@@ -4558,7 +4577,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 73488,
@@ -4626,7 +4645,7 @@
       "dateInstalled": "2019-12-20T18:32:23.1588573Z",
       "dateUpdated": "2019-12-20T18:32:27.397454Z",
       "dateLastUpdateAttempted": "2019-12-20T18:32:27.397454Z",
-      "status": 4,
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -4635,7 +4654,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 63352,
@@ -4693,7 +4712,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 225561,
@@ -5050,7 +5069,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 225566,
@@ -5151,7 +5170,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 224472,
@@ -5304,7 +5323,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 223792,
@@ -5398,7 +5417,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 223794,
@@ -5583,91 +5602,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
-    },
-    {
-      "addonID": 223797,
-      "gameInstanceID": "99ae40f7-fa87-442f-a796-7b7fa56d0303",
-      "installedFile": {
-        "id": 2223813,
-        "displayName": "HelpFixer-1.0.7.jar",
-        "fileName": "HelpFixer-1.0.7.jar",
-        "fileDate": "2015-01-06T03:39:54.04Z",
-        "fileLength": 6552,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2223/813/HelpFixer-1.0.7.jar",
-        "isAlternate": false,
-        "alternateFileId": 2223814,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "meta-inf",
-            "fingerprint": 3763398330,
-            "type": 3
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 2810507101,
-            "type": 3
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 680241881,
-            "type": 3
-          },
-          {
-            "foldername": "version.properties",
-            "fingerprint": 2205744942,
-            "type": 3
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 773459030,
-            "type": 3
-          }
-        ],
-        "packageFingerprint": 1660279438,
-        "gameVersion": [
-          "1.7.10"
-        ],
-        "sortableGameVersion": [
-          {
-            "gameVersionPadded": "0000000001.0000000007.0000000010",
-            "gameVersion": "1.7.10",
-            "gameVersionReleaseDate": "2014-06-16T00:00:00Z",
-            "gameVersionName": "1.7.10"
-          }
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": true,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 4,
-        "renderCacheId": 1197754,
-        "projectId": 223797,
-        "packageFingerprintId": 14392187,
-        "gameVersionDateReleased": "2014-06-16T00:00:00Z",
-        "gameVersionMappingId": 58310,
-        "gameVersionId": 4449,
-        "gameId": 432,
-        "isServerPack": false,
-        "FileNameOnDisk": "HelpFixer-1.0.7.jar"
-      },
-      "dateInstalled": "2019-12-20T18:32:23.1568639Z",
-      "dateUpdated": "2018-12-20T18:32:23.1568639Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 222153,
@@ -5759,6 +5694,90 @@
       "installedTargets": null
     },
     {
+      "addonID": 223797,
+      "gameInstanceID": "99ae40f7-fa87-442f-a796-7b7fa56d0303",
+      "installedFile": {
+        "id": 2223813,
+        "displayName": "HelpFixer-1.0.7.jar",
+        "fileName": "HelpFixer-1.0.7.jar",
+        "fileDate": "2015-01-06T03:39:54.04Z",
+        "fileLength": 6552,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2223/813/HelpFixer-1.0.7.jar",
+        "isAlternate": false,
+        "alternateFileId": 2223814,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "meta-inf",
+            "fingerprint": 3763398330,
+            "type": 3
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 2810507101,
+            "type": 3
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 680241881,
+            "type": 3
+          },
+          {
+            "foldername": "version.properties",
+            "fingerprint": 2205744942,
+            "type": 3
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 773459030,
+            "type": 3
+          }
+        ],
+        "packageFingerprint": 1660279438,
+        "gameVersion": [
+          "1.7.10"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000007.0000000010",
+            "gameVersion": "1.7.10",
+            "gameVersionReleaseDate": "2014-06-16T00:00:00Z",
+            "gameVersionName": "1.7.10"
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": true,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 1197754,
+        "projectId": 223797,
+        "packageFingerprintId": 14392187,
+        "gameVersionDateReleased": "2014-06-16T00:00:00Z",
+        "gameVersionMappingId": 58310,
+        "gameVersionId": 4449,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "HelpFixer-1.0.7.jar"
+      },
+      "dateInstalled": "2019-12-20T18:32:23.1568639Z",
+      "dateUpdated": "2018-12-20T18:32:23.1568639Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
       "addonID": 73510,
       "gameInstanceID": "99ae40f7-fa87-442f-a796-7b7fa56d0303",
       "installedFile": {
@@ -5814,7 +5833,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 32274,
@@ -5931,7 +5950,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 223666,
@@ -6029,7 +6048,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 60089,
@@ -6087,7 +6106,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 66672,
@@ -6171,7 +6190,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 231484,
@@ -6315,6 +6334,69 @@
       "dateInstalled": "2019-12-20T18:32:23.147883Z",
       "dateUpdated": "2019-12-20T18:32:26.8427299Z",
       "dateLastUpdateAttempted": "2019-12-20T18:32:26.8427299Z",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 285063,
+      "gameInstanceID": "99ae40f7-fa87-442f-a796-7b7fa56d0303",
+      "installedFile": {
+        "id": 2518745,
+        "displayName": "Chicken Chunk Patcher 1.1",
+        "fileName": "Chicken Chunk Patcher 1.1.jar",
+        "fileDate": "2018-01-10T15:54:56.943Z",
+        "fileLength": 4206,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2518/745/Chicken Chunk Patcher 1.1.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3402117234,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 2379384536,
+            "type": 0
+          },
+          {
+            "foldername": "chocohead",
+            "fingerprint": 3021240590,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 3748051108,
+        "gameVersion": [
+          "Forge",
+          "1.7.10"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2014-06-16T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "Chicken Chunk Patcher 1.1.jar"
+      },
+      "dateInstalled": "2019-12-21T22:25:24.005346Z",
+      "dateUpdated": "2019-12-21T22:25:24.0153187Z",
+      "dateLastUpdateAttempted": "2019-12-21T22:25:24.0153187Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -6324,7 +6406,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 225605,
@@ -6408,7 +6490,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 220811,
@@ -6504,7 +6586,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 78057,
@@ -6569,7 +6651,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 224237,
@@ -6757,7 +6839,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 224791,
@@ -6938,6 +7020,80 @@
       "installedTargets": null
     },
     {
+      "addonID": 229316,
+      "gameInstanceID": "99ae40f7-fa87-442f-a796-7b7fa56d0303",
+      "installedFile": {
+        "id": 2233249,
+        "displayName": "ChickenChunks-1.7.10-1.3.4.16-universal.jar",
+        "fileName": "ChickenChunks-1.7.10-1.3.4.16-universal.jar",
+        "fileDate": "2015-04-07T17:57:21.763Z",
+        "fileLength": 105665,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2233/249/ChickenChunks-1.7.10-1.3.4.16-universal.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 222213,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "meta-inf",
+            "fingerprint": 3342274083,
+            "type": 0
+          },
+          {
+            "foldername": "codechicken",
+            "fingerprint": 756722379,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 1874192368,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 926633223,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 1377882220,
+        "gameVersion": [
+          "1.7.10"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2014-06-16T00:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "ChickenChunks-1.7.10-1.3.4.16-universal.jar"
+      },
+      "dateInstalled": "2019-12-21T22:35:01.7973029Z",
+      "dateUpdated": "2019-12-21T22:35:01.8143917Z",
+      "dateLastUpdateAttempted": "2019-12-21T22:35:01.8143917Z",
+      "status": 3,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
       "addonID": 69163,
       "gameInstanceID": "99ae40f7-fa87-442f-a796-7b7fa56d0303",
       "installedFile": {
@@ -7032,92 +7188,6 @@
       },
       "dateInstalled": "2019-12-20T18:32:23.1578644Z",
       "dateUpdated": "2018-12-20T18:32:23.1578644Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 3,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": []
-    },
-    {
-      "addonID": 229316,
-      "gameInstanceID": "99ae40f7-fa87-442f-a796-7b7fa56d0303",
-      "installedFile": {
-        "id": 2233249,
-        "displayName": "ChickenChunks-1.7.10-1.3.4.16-universal.jar",
-        "fileName": "ChickenChunks-1.7.10-1.3.4.16-universal.jar",
-        "fileDate": "2015-04-07T17:57:21.763Z",
-        "fileLength": 105665,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2233/249/ChickenChunks-1.7.10-1.3.4.16-universal.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 1972,
-            "addonId": 222213,
-            "type": 3,
-            "fileId": 2233249
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "meta-inf",
-            "fingerprint": 3342274083,
-            "type": 3
-          },
-          {
-            "foldername": "codechicken",
-            "fingerprint": 756722379,
-            "type": 3
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 1874192368,
-            "type": 3
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 926633223,
-            "type": 3
-          }
-        ],
-        "packageFingerprint": 1377882220,
-        "gameVersion": [
-          "1.7.10"
-        ],
-        "sortableGameVersion": [
-          {
-            "gameVersionPadded": "0000000001.0000000007.0000000010",
-            "gameVersion": "1.7.10",
-            "gameVersionReleaseDate": "2014-06-16T00:00:00Z",
-            "gameVersionName": "1.7.10"
-          }
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": true,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 4,
-        "renderCacheId": 1202218,
-        "projectId": 229316,
-        "packageFingerprintId": 17862183,
-        "gameVersionDateReleased": "2014-06-16T00:00:00Z",
-        "gameVersionMappingId": 80413,
-        "gameVersionId": 4449,
-        "gameId": 432,
-        "isServerPack": false,
-        "FileNameOnDisk": "ChickenChunks-1.7.10-1.3.4.16-universal.jar"
-      },
-      "dateInstalled": "2019-12-20T18:25:12.3839818Z",
-      "dateUpdated": "2018-12-20T18:25:12.3839818Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
       "status": 3,
       "preferenceAutoInstallUpdates": false,
@@ -7229,7 +7299,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 72728,
@@ -7394,7 +7464,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 223852,
@@ -7473,7 +7543,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 222211,
@@ -7559,7 +7629,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 222213,
@@ -7581,59 +7651,47 @@
           {
             "foldername": "meta-inf",
             "fingerprint": 2990017638,
-            "type": 3
+            "type": 0
           },
           {
             "foldername": "codechicken",
             "fingerprint": 1369025765,
-            "type": 3
+            "type": 0
           },
           {
             "foldername": "cccmod.info",
             "fingerprint": 758000547,
-            "type": 3
+            "type": 0
           },
           {
             "foldername": "dependencies.info",
             "fingerprint": 606655937,
-            "type": 3
+            "type": 0
           },
           {
             "foldername": "assets",
             "fingerprint": 1371961654,
-            "type": 3
+            "type": 0
           }
         ],
         "packageFingerprint": 3208591531,
         "gameVersion": [
           "1.7.10"
         ],
-        "sortableGameVersion": [
-          {
-            "gameVersionPadded": "0000000001.0000000007.0000000010",
-            "gameVersion": "1.7.10",
-            "gameVersionReleaseDate": "2014-06-16T00:00:00Z",
-            "gameVersionName": "1.7.10"
-          }
-        ],
         "hasInstallScript": false,
-        "isCompatibleWithClient": true,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 4,
-        "renderCacheId": 1195701,
-        "projectId": 222213,
-        "packageFingerprintId": 13277309,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
         "gameVersionDateReleased": "2014-06-16T00:00:00Z",
-        "gameVersionMappingId": 49074,
-        "gameVersionId": 4449,
-        "gameId": 432,
+        "gameId": 0,
         "isServerPack": false,
         "FileNameOnDisk": "CodeChickenCore-1.7.10-1.0.4.29-universal.jar"
       },
-      "dateInstalled": "2019-12-20T18:25:12.3859764Z",
-      "dateUpdated": "2018-12-20T18:25:12.3859764Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "dateInstalled": "2019-12-21T22:35:41.179717Z",
+      "dateUpdated": "2019-12-21T22:35:41.1816847Z",
+      "dateLastUpdateAttempted": "2019-12-21T22:35:41.1816847Z",
       "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,

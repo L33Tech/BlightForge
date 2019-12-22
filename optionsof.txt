@@ -7,7 +7,7 @@ ofPreloadedChunks:0
 ofOcclusionFancy:false
 ofSmoothFps:false
 ofSmoothWorld:true
-ofAoLevel:1.0
+ofAoLevel:0.5
 ofClouds:0
 ofCloudsHeight:0.0
 ofTrees:0
@@ -43,7 +43,7 @@ ofStars:true
 ofSunMoon:true
 ofVignette:0
 ofChunkUpdates:1
-ofChunkLoading:0
+ofChunkLoading:2
 ofChunkUpdatesDynamic:false
 ofTime:0
 ofClearWater:false
